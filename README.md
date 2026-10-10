@@ -1,7 +1,7 @@
 # Expense Management System
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
-
+A Python-based expense tracking application using FastAPI, MySQL, and Streamlit for expense management, monthly summaries, and spending analytics.
 
 ## Project Structure
 
